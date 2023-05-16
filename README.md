@@ -1,4 +1,5 @@
-# Wealth-of-Nations-Project
+#     Wealth-of-Nations-Tableau-Project
+
 This is my first project with Just-IT during my 12 weeks bootcamp. It covered General Data Protection legislation principals followed by preparing data set for visualisation in Excel and creating a simple graph in there. 
 There are also covered some basic operations in Excel e.g. saving a workbook with a password, macros, creating print buttons and an Excel dashboard.
 
